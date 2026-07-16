@@ -1,0 +1,12 @@
+# Mengabaikan seluruh folder virtual environment di subfolder mana pun
+.venv/
+venv/
+env/
+ENV/
+
+# Mengabaikan file hasil kompilasi python otomatis
+__pycache__/
+*.pyc
+
+# Mengabaikan file log/temporary jupyter notebook
+.ipynb_checkpoints/
