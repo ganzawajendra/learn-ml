@@ -1,8 +1,10 @@
 # Machine Learning Foundation with Python
 
-Welcome to the **Machine Learning Foundation** repository! This project serves as a comprehensive guide and code repository for learning the fundamental concepts required for Machine Learning using Python. It covers everything from basic Python data structures and Object-Oriented Programming (OOP) to essential data science libraries like NumPy and Pandas.
+Welcome to the **Machine Learning Foundation** repository! 
 
-Whether you are a beginner looking to understand Python basics or an intermediate learner diving into data manipulation, this repository provides hands-on code examples and Jupyter Notebooks to solidify your understanding.
+> **Note:** This repository serves as my personal learning log and workspace as I dive into Machine Learning with Python. It is **not** intended to be a polished, comprehensive tutorial for others to learn from, but rather a living reflection of my own ongoing learning journey. The contents here will be continually updated and evolve alongside my progress.
+
+While it is primarily for my personal tracking, it documents my exploration of the fundamental concepts required for Machine Learning. It covers everything from basic Python data structures and Object-Oriented Programming (OOP) to essential data science libraries like NumPy and Pandas.
 
 ## 📖 Table of Contents
 - [Overview](#overview)
