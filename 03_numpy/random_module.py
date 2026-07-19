@@ -29,9 +29,9 @@ print("\nRandom Float 2 Dimensi (3x4): \n", np.random.rand(3,4))
 # .rand(baris, kolom)
 np.random.seed(42)
 #  1 Dimensi
-print("\nRandom Float Normal 1 Dimensi: \n", np.random.rand(3))
+print("\nRandom Float Normal 1 Dimensi: \n", np.random.randn(3))
 # 2 Dimensi
-print("\nRandom Float Normal 2 Dimensi (3x4): \n", np.random.rand(3,4))
+print("\nRandom Float Normal 2 Dimensi (3x4): \n", np.random.randn(3,4))
 
 # ======================================
 
